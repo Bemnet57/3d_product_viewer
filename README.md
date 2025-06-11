@@ -1,4 +1,4 @@
-## BEMNET ASSEGED             UGR/2591/15             SSECTION-2
+## BEMNET ASSEGED                                                  UGR/2591/15                                               SECTION-2
 
 # 3D Interactive Chair Viewer
 
@@ -29,5 +29,5 @@ An interactive 3D product viewer built using **Three.js**. This project showcase
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Bemnet57/3d_product_viewer.git
+   cd 3d_product_viewer
